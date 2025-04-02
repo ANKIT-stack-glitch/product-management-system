@@ -1,4 +1,4 @@
-# Pranisha Beauty Products Management System
+#  Beauty Products Management System
 
 A simple inventory management and invoicing system for Pranisha Beauty Products store.
 
